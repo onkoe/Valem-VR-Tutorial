@@ -1,6 +1,9 @@
 # Valem-VR-Tutorial
 A mirror of Valem's VR tutorial from his Patreon to GitHub. 
 
+## What is this? 
+This project is a collection of Valem's code in his 2020 series on the Unity XR Toolkit. It provides a basic foundation for any VR project. Here's a link to watch the full series: https://youtube.com/playlist?list=PLrk7hDwk64-a_gf7mBBduQb3PEBYnG4fU
+
 ## Usage
 For best results, please ensure that you're using a Unity version around 2019.4. This will guarantee the success of the XR plugin's inputs working correctly. 
 
